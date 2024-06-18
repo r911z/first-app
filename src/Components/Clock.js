@@ -18,7 +18,7 @@ function Clock() {
 
     return (
         <div>
-            <h1 className="clock-msg">{date.toLocaleTimeString()} en Dallas, Tx.</h1>
+            <h1 className="playwrite-pl-clock">{date.toLocaleTimeString()} en Dallas, Tx.</h1>
         </div>
     );
 }

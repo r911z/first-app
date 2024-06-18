@@ -1,4 +1,14 @@
-.clock-msg{
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+PL:wght@100..400&display=swap');
+
+/* .clock-msg{
     font-family: 'Times New Roman', Times, serif;
     color: goldenrod;
+} */
+
+.playwrite-pl-clock {
+  font-family: "Playwrite PL", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: goldenrod
 }
